@@ -1,0 +1,15 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>images/about.png</file>
+        <file>images/color.png</file>
+        <file>images/eye.png</file>
+        <file>images/file.png</file>
+        <file>images/font_btn.png</file>
+        <file>images/pdf.png</file>
+        <file>images/printer.png</file>
+        <file>images/printer_icon.png</file>
+        <file>images/qt.png</file>
+        <file>images/save_file.png</file>
+        <file>images/settings.png</file>
+    </qresource>
+</RCC>
